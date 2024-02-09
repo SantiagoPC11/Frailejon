@@ -1,0 +1,27 @@
+.fondomenu{
+    background-color:white;
+}
+
+.fondomenu2{
+    background-color: rgb(152, 201, 27);
+}
+
+.fuente1{    
+    font-family: 'Protest Strike', sans-serif;
+font-family: 'Satisfy', cursive;
+font-size: 50px;
+color:red
+}
+
+.fuente2{
+    font-family: 'Protest Guerrilla', sans-serif;
+}
+
+.fuente3{
+    font-family: 'Sixtyfour', sans-serif;
+}
+
+.fuente4{
+    font-family: 'Honk', system-ui;
+    
+}
